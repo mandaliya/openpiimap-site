@@ -1,6 +1,3 @@
-## `README.md` (Updated for OpenPIIMap)
-
-```markdown
 # 🌍 OpenPIIMap Website
 
 This is the official website for **OpenPIIMap** — an open-source initiative to map and standardize definitions of **Personally Identifiable Information (PII)** and **Protected Health Information (PHI)** across global privacy frameworks like **GDPR**, **HIPAA**, and **DPDPB**.
@@ -82,6 +79,5 @@ This website supports the OpenPIIMap GitHub repository and is open to contributi
 
 MIT © [Intelation](https://intelation.com)
 
-```
 
 

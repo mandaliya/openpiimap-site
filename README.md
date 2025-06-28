@@ -1,7 +1,3 @@
-Here’s an updated and purpose-driven version of your `README.md` for the **OpenPIIMap website**, replacing the generic Next.js boilerplate:
-
----
-
 ## `README.md` (Updated for OpenPIIMap)
 
 ```markdown
